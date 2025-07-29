@@ -1,0 +1,1 @@
+function SimplexNoise(r){this.noise2D=function(x,y){return Math.sin(x+y+r());};}
